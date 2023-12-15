@@ -1,1 +1,3 @@
 # Quiz-App
+In this project , i have created a quiz app whih have some questions that is solved by any user. For creating this i have used html, css, javascript to make this project responsive.
+Thank you for viewing this....
